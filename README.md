@@ -2,8 +2,8 @@
 
 | Nama                  | NRP        |
 |-----------------------|------------|
-| Azizah Elok           | 502522     |
-| Adelia Kamaski        | 502522     |
+| Azizah Elok           | 5025221243     |
+| Adelia Kamaski        | 5025221246     |
 | Nadya Saraswati Putri | 5025221246 |
 
 ## Deskripsi Final Project
