@@ -20,12 +20,25 @@ Adapun tujuan akhir yang ingin dicapai dari final project ini, yaitu:
 ## Dataset
 
 * **Link:** [Saudi Employee Attrition Dataset](https://data.mendeley.com/datasets/6z2hty8php/1)
-* **Original Data:** `Original Dataset of Employee Attrition.xlsx`
-* **Non-Tree Data:**`Employee attrition dataset for non-tree-based models`
-* **Tree-Based Data:**`Employee attrition dataset for tree-based models.xlsx`
+* **Original Data**  (`Original Dataset of Employee Attrition.xlsx`): data mentah hasil survei sebelum dilakukan preprocessing atau encoding pada fitur-fiturnya. 
+* **Tree-Based Data** (`Employee attrition dataset for tree-based models.xlsx`): data yang sudah melalui tahapan preprocessing dan encoding. Data ini disesuaikan untuk model decision tree dan model ensemble berbasis tree, seperti Random Forest atau Gradient Boosting.
+* * **Non-Tree Data** (`Employee attrition dataset for non-tree-based models`): data yang sudah melalui tahapan preprocessing, encoding, dan semua data telah dikonversikan ke dalam bentuk numerikal. Data ini disesuaikan untuk model non-tree, seperti SVM, Logistic Regression, dan KNN. 
 * **Target Variable(Y):** **`Attrition`**
 
 **Catatan:** Pemilik dataset mencantumkan dua file yang sudah di-preprocessing khusus untuk melatih model tree-based dan model non-tree. Namun, kami tetap melakukan tahapan preprocessing. 
+
+| **Aspek**              | **Deskripsi**      |
+|-----------------------|-----------------|
+| Nama Dataset          | 502522          |
+| Tahun Publikasi       | 502522     |
+| Publisher             | 5025221246 |
+| DOI                   | 10.17632/6z2hty8php.1 |
+| Kontributor           | Haya Alqahtani, Hana Almagrabi, Amal Alharbi               |
+| Jumlah responden      | 1.200 karyawan    |
+| Jumlah fitur          | 34 variabel + 1 target variabel (attrition) |
+| Jenis fitur           | Demografis, pekerjaan, kepuasan kerja, kondisi organisasi,  faktor motivasi |
+| Tipe Target           | Biner ('Yes' / 'No') |
+
 
 ---
 
@@ -53,7 +66,6 @@ Adapun tujuan akhir yang ingin dicapai dari final project ini, yaitu:
 ### 1. Prediksi employee attrition
 
 --- 
-## Referensi
 
 ### 2. Laporan Output
 
@@ -62,3 +74,19 @@ Adapun tujuan akhir yang ingin dicapai dari final project ini, yaitu:
 ## Link Demo
 
 ---
+
+## Referensi
+
+Alqahtani, H., Almagrabi, H., & Alharbi, A. (2025). Saudi Employee Attrition Dataset (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/6z2hty8php.1 
+
+Fauziah, D. A., Muliawan, A., & Dimyati, M. (2024). Implementation of Machine Learning on Employee Attrition Based on Performance Parameters Using Particle Swarm Optimization and Ensemble Classifier Methods. Jurnal Teknik Informatika (JUTIF), 5(6), 1823-1831. https://doi.org/10.52436/1.jutif.2024.5.6.3442 
+
+Glassbox Medicine. (2019, February 17). Measuring performance: The confusion matrix. Glassbox Medicine. https://glassboxmedicine.com/2019/02/17/measuring-performance-the-confusion-matrix/  
+
+Govindarajan, R., Kumara, N. K., Reddy, S. P., Pravallika, S. E., Dhatri, B., & Kumar, P. (2025). Predicting Employee Attrition: A Comparative Analysis of Machine Learning Models Using the IBM Human Resource Analytics Dataset. Procedia Computer Science, 258, 4084-4093. https://doi.org/10.1016/j.procs.2025.04.659 
+
+Jamroni, A. R. B., Hadikristanto, W., & Fatchan, M. (2025). Analisis Faktor dan Prediksi Atrisi untuk Optimalisasi Retensi Karyawan Menggunakan Machine Learning. Bit-Tech (Binary Digital - Technology), 7(3), 1057-1067. https://doi.org/10.32877/bt.v7i3.2301 
+
+Varkiani, S. M., Pattarin, F., Fabbri, T., & Fantoni, G. (2025). Predicting Employee Attrition and Explaining Its Determinants. Expert Systems With Applications, 272, 126575. https://doi.org/10.1016/j.eswa.2025.126575 
+
+Wardhani, F. H., & Lhaksmana, K. M. (2022). Predicting Employee Attrition Using Logistic Regression with Feature Selection. Sinkron: Jurnal dan Penelitian Teknik Informatika, 6(4), 2214-2222. https://doi.org/10.33395/sinkron.v7i4.11783 
