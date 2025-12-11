@@ -29,9 +29,9 @@ Adapun tujuan akhir yang ingin dicapai dari final project ini, yaitu:
 
 | **Aspek**              | **Deskripsi**      |
 |-----------------------|-----------------|
-| Nama Dataset          | 502522          |
-| Tahun Publikasi       | 502522     |
-| Publisher             | 5025221246 |
+| Nama Dataset          | Saudi Employee Attrition Dataset         |
+| Tahun Publikasi       | 2025   |
+| Publisher             | Mendeley |
 | DOI                   | 10.17632/6z2hty8php.1 |
 | Kontributor           | Haya Alqahtani, Hana Almagrabi, Amal Alharbi               |
 | Jumlah responden      | 1.200 karyawan    |
@@ -42,14 +42,10 @@ Adapun tujuan akhir yang ingin dicapai dari final project ini, yaitu:
 
 ---
 
-## Metodologi 
-
-
-### Preprocessing
-
-
 ## Model yang Digunakan
+- **Single Learning:** Regresi Logistik, K-Nearest Neighbors, Support Vector Machine, dan Decision Tree.
 
+- **Ensemble Learning:** Random Forest, Gradient Boosting, AdaBoost, XGBoost, dan CatBoost
 
 ## Skenario Pengujian
 
@@ -66,10 +62,6 @@ Adapun tujuan akhir yang ingin dicapai dari final project ini, yaitu:
 ### 1. Prediksi employee attrition
 
 --- 
-
-### 2. Laporan Output
-
----
 
 ## Link Demo
 
